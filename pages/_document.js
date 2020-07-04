@@ -6,7 +6,7 @@ const typography = dynamic(() => import('../utils/typography'));
 export default class MyDocument extends Document {
 	render() {
 		return (
-			<html lang="id, in">
+			<html lang="en">
 				<Head>
 					<TypographyStyle typography={typography} />
 				</Head>

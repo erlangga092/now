@@ -14,7 +14,7 @@ export default function Layout(props) {
 				</footer>
 			</section>
 			<section className="switch">
-				<button className="switch__btn">
+				<button className="switch__btn" aria-label="Justify">
 					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="switch__moon"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
 				</button>
 			</section>

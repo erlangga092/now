@@ -24,7 +24,7 @@ export default function Post({content, frontMatter, slug}) {
 			<meta charSet="utf-8"/>
         <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
         <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1"/>
-        <meta name="googlebot" content="noindex" />
+        <meta name="AdsBot-Google" content="noindex"/>
         <meta name="description" content="Post page of erlangga blog"/>
         <meta property="og:type" content="website"/>
         <meta property="og:site_name" content="{slug} - Erlangga"/>
