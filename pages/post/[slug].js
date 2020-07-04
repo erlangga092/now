@@ -121,6 +121,7 @@ export default function Post({content, frontMatter, slug}) {
 
 			.dinamic__markdown article {
 				font-family: 'Merriweather sans', sans-serif;
+				line-height: 2;
 			}
 		`}</style>
 		</motion.div>

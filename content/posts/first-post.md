@@ -1,12 +1,9 @@
 ---
-title: Memahami pengkondisian dalam javascript
-description: Sama seperti bahasa pemrograman, logika pengkondisian javascript dapat dilakukan dengan menggunakan keyword if else maupun menggunakan ternary operator
+title: Tipe Data dalam Javascript
+description: Seperti bahasa pemrograman pada umumnya, javascript memiliki tiga tipe data dasar, yaitu string untuk karakter, integer untuk numeric dan booelan untuk truthy falsy.
 updatedAt: 2020-06-28
 ---
 
-## Tipe Data dalam Javascript
-
-### #Intro
 Terdapat tiga (3) tipe data dasar dalam javascript, yaitu _string_, _integer_, dan _boolean_
 Contoh:
 ```javascript
