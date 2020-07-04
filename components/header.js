@@ -12,13 +12,13 @@ export default function Header() {
 							</h1>
 						</section>
 						<section className="profile__navigation">
-							<a href="#">About</a>
+							<a href="https://about.me/erlangga092">About</a>
 							<Link href={'/'}>
 								<a>Blog</a>
 							</Link>
-							<a href="#">Github</a>
-							<a href="#">Facebook</a>
-							<a href="#">Twitter</a>
+							<a href="https://github.com/erlangga092">Github</a>
+							<a href="https://web.facebook.com/nggacox">Facebook</a>
+							<a href="https://web.twitter.com/nggacox">Twitter</a>
 						</section>
 					</aside>
 				</main>
